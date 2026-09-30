@@ -1,9 +1,11 @@
 [package]
 name = "elliptic-curve-weierstrass"
 version = "0.1.0"
-description = "A Rust library for Elliptic Curve Weierstrass"
+description = "Elliptic Curve Weierstrass — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/elliptic-curve-weierstrass"
+repository = "https://github.com/SuperInstance/elliptic-curve-weierstrass"
 edition = "2021"
+
+keywords = ["elliptic-curve-weierstrass"]
 
 [dependencies]
